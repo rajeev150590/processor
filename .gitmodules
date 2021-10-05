@@ -1,0 +1,3 @@
+[submodule "rio"]
+	path = rio
+	url = https://github.com/rajeev150590/rio.git
